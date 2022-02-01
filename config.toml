@@ -1,4 +1,4 @@
-baseURL = "http://matteo-pozzi.github.io/template-sito/"
+baseURL = "http://matteo-pozzi.github.io/"
 title = "Goldydocs"
 
 enableRobotsTXT = true
